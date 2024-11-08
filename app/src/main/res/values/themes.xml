@@ -3,6 +3,7 @@
     <style name="Base.Theme.Tarea5DDI" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:textViewStyle">@style/EditText</item>
     </style>
 
     <style name="Theme.Tarea5DDI" parent="Base.Theme.Tarea5DDI" />

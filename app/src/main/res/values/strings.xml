@@ -5,26 +5,4 @@
     <string name="Text2">Texto2</string>
     <string name="Botom1">Botón 1</string>
     <string name="Botom2">Botón 2</string>
-
-        <style name="EditText">
-            <item name="android:textSize">20sp</item>
-            <item name="android:textStyle">bold</item>
-            <item name="android:textAlignment">center</item>
-        </style>
-
-        <style name="Text1">
-            <item name="android:textColor">@color/white</item>
-            <item name="android:background">@color/black</item>
-        </style>
-
-        <style name="Text2">
-            <item name="android:textColor">#FFFFFF</item>
-            <item name="android:background">#3E4A89</item>
-        </style>
-
-        <style name="Botones">
-            <item name="android:backgroundTint">#FF4081</item>
-            <item name="android:textColor">#FFFFFF</item>
-        </style>
-
 </resources>
